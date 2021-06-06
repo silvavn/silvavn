@@ -31,5 +31,7 @@ He holds a M.Sc. in Computing Science from the University of Alberta, a M. Sc. i
 
 ## Social Networks
 LinkedIn: [https://www.linkedin.com/in/nascimentovictor/](https://www.linkedin.com/in/nascimentovictor/)
+
 Twitter: [https://twitter.com/vnasilva](https://twitter.com/vnasilva)
+
 Personal Website (Slightly Outdated): [https://webdocs.cs.ualberta.ca/~vsilva/](https://webdocs.cs.ualberta.ca/~vsilva/)
