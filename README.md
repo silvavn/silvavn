@@ -4,10 +4,8 @@ I'm a PhD Student at the University of Alberta, Canada. My main development inte
 
 ## Highlights
 
-- I contribute and/or maintain open source, including [yfinance](https://github.com/ranaroussi/yfinance), [Eiten](https://github.com/tradytics/eiten), and [Freqtrade](https://github.com/freqtrade/freqtrade)
-- I've done (and sometimes still do) reverse engineering of APIs and closed source
-code
-- I've developed an investment strategy that automatically manages my money and assets, it is called [Faidh](https://faidhwealth.com/).
+- I contribute and/or maintain open source, including [scholarly](https://github.com/scholarly-python-package/scholarly), [yfinance](https://github.com/ranaroussi/yfinance), [Eiten](https://github.com/tradytics/eiten), and [Freqtrade](https://github.com/freqtrade/freqtrade)
+- I've done (and sometimes still do) reverse engineering of APIs and closed source code
 - My favourite technologies/languages are Python, Vue and Javascript, but I love to try new technologies every now and then.
 
 ## Research Profile
@@ -20,7 +18,7 @@ I conduct research under supervision of Dr. Joerg Sander and Dr. Eleni Stroulia.
 
 I am also curious about: Financial Machine Learning, Ethics, Democracy and Philosophy.
 
-In the past I did research on game AI, including intelligent agents, dynamic difficulty adjustment and human-computer interaction.
+In the past I did research on game AI, including intelligent agents, dynamic difficulty adjustment, and human-computer interaction.
 
 ## A third person summary
 
