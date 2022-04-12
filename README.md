@@ -1,16 +1,17 @@
 ## Dev Profile
 
-I'm a PhD Student at the University of Alberta, Canada. My main development interests are around Machine Learning and Finance. I have experience in all major areas of Software Engineering, including documentation, testing, front-end, and back-end development.
+I'm a PhD Student at the University of Alberta, Canada. My interests include Artificial Inteligence(AI) in general, with focus on Machine Learning, Unsupervised, Supervised and Self-Supervised Learning. My track record also includes implementations related to Finance and Investing. I have experience in major areas of Software Engineering, including documentation, testing, front and back-end development.
 
 ## Highlights
 
-- I contribute and/or maintain open source, including [scholarly](https://github.com/scholarly-python-package/scholarly), [yfinance](https://github.com/ranaroussi/yfinance), [Eiten](https://github.com/tradytics/eiten), and [Freqtrade](https://github.com/freqtrade/freqtrade)
+- I was one of a few researchers that took part on the evaluation of [DALL-E-2](https://github.com/openai/dalle-2-preview/blob/main/system-card.md) with OpenAI 
+- I contribute(d) and/or maintain(ed) open source, including [scholarly](https://github.com/scholarly-python-package/scholarly), [yfinance](https://github.com/ranaroussi/yfinance), [Eiten](https://github.com/tradytics/eiten), and [Freqtrade](https://github.com/freqtrade/freqtrade)
 - I've done (and sometimes still do) reverse engineering of APIs and closed source code
-- My favourite technologies/languages are Python, Vue and Javascript, but I love to try new technologies every now and then.
+- My favourite technologies/languages are Python and Javascript
 
 ## Research Profile
 
-I am broadly interested in Artificial Intelligence with focus on data driven Approaches. My current research covers the detection, representation and evaluation of "change" in data. That means that I am curious about:
+I am broadly interested in Artificial Intelligence with focus on data driven approaches. My current research covers the detection, representation and evaluation of "change" in data. That means that I am curious about:
 
 - Whether the characteristics of the data and/or its data points are different at different points in time; (Change, as the result)
 - The process that makes data characteristics be different at different time points (Change, as in, the process of change).
